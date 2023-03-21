@@ -1,6 +1,6 @@
 # ESP32 Water Flow Meter
 <h2>Description</h2>
-This code is designed for a water flow meter that measures the flow of water and displays it on an LCD screen. It is written in C++ and is intended to be used on an ESP32 board.
+This code is designed for a water flow meter that measures the flow of water and displays it on an LCD screen. It is written in C++ and is intended to be used on an ESP32 board.<br><b>2022</b>
 <h2>Requirements</h2>
 To use this code, you will need the following hardware components:<br><br>
 
@@ -23,4 +23,5 @@ When the flow rate is below the setpoint, pin 4 of the board is set to LOW, and 
 <h2>Note</h2>
 Make sure that the water flow meter is compatible with the ESP32 board before using this code. The pin numbers used in the code may need to be changed depending on the specific board being used. Additionally, the LCD address in the code should be changed to match the address of your specific LCD screen.
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
