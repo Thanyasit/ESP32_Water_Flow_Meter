@@ -22,6 +22,17 @@ Once the code is uploaded to your ESP32 board, the water flow meter will start m
 When the flow rate is below the setpoint, pin 4 of the board is set to LOW, and when it's above the setpoint, pin 4 is set to HIGH. You can also view the water flow rate on the serial monitor.
 <h2>Note</h2>
 Make sure that the water flow meter is compatible with the ESP32 board before using this code. The pin numbers used in the code may need to be changed depending on the specific board being used. Additionally, the LCD address in the code should be changed to match the address of your specific LCD screen.
-<h2>License</h2>
+
+
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226800269-e6b05d31-9892-43bd-b6d3-e81b8221c8d8.jpg" width="500">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226800275-24d880ae-b698-413f-94b8-4bb5e31e21aa.jpg" width="500">
+</p>
+
+## License
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
